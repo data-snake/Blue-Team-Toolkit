@@ -33,4 +33,4 @@ Scripts and utilities for:
 
 Clone this repo:
 ```bash
-git clone https://github.com/YOURUSERNAME/blue-team-toolkit.git
+git clone https://github.com/data-snake/blue-team-toolkit.git
